@@ -1,4 +1,4 @@
-<img width="602" height="109" alt="Screenshot 2026-03-17 233937" src="https://github.com/user-attachments/assets/881eab11-f92e-44bc-9801-a8e3ed061a52" />
+
 
 # 🚂 The Train Captain – Railway Ticket Booking System
 
